@@ -42,3 +42,4 @@ Company wants to automate the loan eligibility process in real time based on cus
   
 ## <a name="Conclusion"></a>Conclusion
 The Logistic Regression Algorithm was found to be the best performing generalized model in Predicting eligibility for loan based on the records.
+
