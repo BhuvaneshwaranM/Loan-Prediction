@@ -5,7 +5,7 @@ Predict Loan Eligibility For Dream Housing Finance Company
 
 # Table of Contents
 * [Introduction](#Introduction)
-* [Data Dictionary](#Data Dictionary)
+* [Data Dictionary](#Data-Dictionary)
 * [Aim of the Project](#Aim-of-the-Project)
 * [Working with Dataset](#Working-with-Dataset)
 * [Conclusion](#Conclusion)
